@@ -6,7 +6,6 @@
 	<title>
 		titre <?php echo "test"; ?>
 	</title>
-	
 </head>
 <body>
 	<h1 style="text-align: center;font-size: 450%;">MASHAPP</h1>
@@ -19,7 +18,7 @@
 		Enter your birth day: <br>
 		<input type="date" name="date"><br>
 		What is your language of expression ?<br>
-		<input type="radio" name="language">English<br>
+		<input type="radio" name="language" >English<br>
 		<input type="radio" name="language">French<br>
 		Which is the region where you studied ?
 		<select name="choix">
