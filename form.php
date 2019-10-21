@@ -18,11 +18,9 @@
 		<input type="text" name="surname" class="inputtext required" /><br>
 		Enter your birth day: <br>
 		<input type="date" name="date"><br>
-		<div ><!--style="border-style: dotted;">-->
-			What is your language of expression ?<br>
-			<input type="radio" name="language">English<br>
-			<input type="radio" name="language">French<br>
-		</div>
+		What is your language of expression ?<br>
+		<input type="radio" name="language">English<br>
+		<input type="radio" name="language">French<br>
 		Which is the region where you studied ?
 		<select name="choix">
     		<option value="Center">Center</option>
