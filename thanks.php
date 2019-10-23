@@ -34,6 +34,8 @@
 		Thanks for your participation  <?php echo $_POST["surname"]; ?> !!<br>
 		Your informations have been registered!
 	</p>
+	<br>
+	<a href="echo.php">see my bd</a> 
 	<footer>Mashapp 2019 copyright</footer>
 </body>
 </html>
