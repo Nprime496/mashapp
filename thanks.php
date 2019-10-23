@@ -11,7 +11,8 @@
 		<?php
 			try
 			{
-				$bdd=new SQLite3("mashapp_bd");
+				$path="mashapp_bd";
+				$bdd=new PDO("sqlite:".$path);
 				//$bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);//pour pouvoir afficher les erreurs
 				$name=$_POST["name"];
 				$surname=$_POST["surname"];
