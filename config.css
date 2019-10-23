@@ -13,11 +13,8 @@ form {
     display: inline-block;
 }
 .centered {
-  position: fixed;
-  top: 30%;
-  left:43%;
-  margin-top: -100px;
-  margin-left: -100px;
+	justify-content: center;
+	align-content: center;
 }
 .required
 {
@@ -27,7 +24,7 @@ form {
 
 .inputtext
 {
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 .message
