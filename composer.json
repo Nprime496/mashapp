@@ -1,1 +1,7 @@
-{}
+{
+    "name":"mashapp",
+    "description": "a simple description",
+    "require": {
+        "ext-pdo_sqlite":"*"
+    }
+}
