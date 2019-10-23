@@ -8,7 +8,9 @@
 	</title>
 </head>
 <body>
+	<div style="margin:0 auto">
 	<h1 style="text-align: center;font-size: 450%;">MASHAPP</h1>
+	<br>
 	<form class='superform centered' action="thanks.php" method="post" enctype="multipart/form-data">
 		<h2>Informations parrains</h2>
 		Enter your name: *<br>
@@ -45,5 +47,6 @@
 		<input type="file" name="picture"><br><br><br>
 		<input type="submit" name="submit" value="valider" style="font-size: 150%">
 	</form> </p>
+	</div>
 </body>
 </html>

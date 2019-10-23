@@ -1,4 +1,8 @@
-
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 .superform
 {
 	font-weight: bold;
@@ -9,9 +13,10 @@
   	border-width: 5px;
 	/*color: lightblue;*/
 }
-form {
+
+/*form {
     display: inline-block;
-}
+}*/
 .centered {
 	justify-content: center;
 	align-content: center;
