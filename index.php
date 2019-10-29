@@ -22,7 +22,7 @@
 		What is(are) your language(s) of expression ?<br>
 		<input type="checkbox" name="langues[]" value="anglais" >English<br>
 		<input type="checkbox" name="langues[]" value ="francais">French<br>
-		Which is the region where you studied ?
+		in which regions did you study?
 		<select name="region">
     		<option name="region" value="Center">Center</option>
     		<option name="region" value="Littoral">Littoral</option>
