@@ -57,9 +57,6 @@ The basic project being intended for the [ENSPY](https://polytechnique.cm/) for 
 
 - Make sure you have a python version >= 3.7.1 installed
 - In the repo folder, run `python setup.py install` to install dependencies
-- In the repo folder, run `python3 main.py`/`py main.py`/`python main.py`/ in command line
-
-
 
 
 ## TODO
