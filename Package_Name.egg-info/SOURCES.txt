@@ -1,8 +1,0 @@
-README.md
-setup.py
-Package_Name.egg-info/PKG-INFO
-Package_Name.egg-info/SOURCES.txt
-Package_Name.egg-info/dependency_links.txt
-Package_Name.egg-info/top_level.txt
-mashapp/__init__.py
-mashapp/logic.py
